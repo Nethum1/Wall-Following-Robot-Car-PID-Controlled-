@@ -32,11 +32,11 @@ As part of my second-year academic journey, I developed a Wall-Following Robot C
 🔍 What I Learned:
 This project deepened my practical knowledge in:
 
-Control systems and PID tuning
+* Control systems and PID tuning
 
-Sensor integration and real-time data handling
+* Sensor integration and real-time data handling
 
-Embedded systems development and robotics design
+* Embedded systems development and robotics design
 
 I'm excited to build on this foundation as I continue exploring robotics, automation, and intelligent systems.
 
