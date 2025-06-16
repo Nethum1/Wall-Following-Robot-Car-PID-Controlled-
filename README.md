@@ -39,3 +39,7 @@ Sensor integration and real-time data handling
 Embedded systems development and robotics design
 
 I'm excited to build on this foundation as I continue exploring robotics, automation, and intelligent systems.
+
+
+https://github.com/user-attachments/assets/6a546b27-0bab-4758-92be-45efdef0d557
+
