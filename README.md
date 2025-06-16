@@ -1,4 +1,6 @@
 # Wall-Following-Robot-Car-PID-Controlled-
+![IMG_20250213_102358](https://github.com/user-attachments/assets/04ed4d52-f9e0-48d1-aea6-32ee64de43ed)
+
 I designed and developed a prototype Wall-Following Robot Car using 'Arduino IDE' and 'PID control'. The robot continuously maintains a set distance from the wall, adjusting its movement in real time through precise PID tuning. 
 
 🔹 Key Features:
