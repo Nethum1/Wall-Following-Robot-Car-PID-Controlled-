@@ -4,6 +4,7 @@
 I designed and developed a prototype Wall-Following Robot Car using 'Arduino IDE' and 'PID control'. The robot continuously maintains a set distance from the wall, adjusting its movement in real time through precise PID tuning. 
 
 🔹 Key Features:
+
 ✅ Prototype autonomous vehicle with real-time wall-following capability 
 
 ✅ Implemented 'PID control' for smooth and accurate navigation 
