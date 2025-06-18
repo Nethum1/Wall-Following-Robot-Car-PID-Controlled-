@@ -5,9 +5,13 @@ I designed and developed a prototype Wall-Following Robot Car using 'Arduino IDE
 
 🔹 Key Features:
 ✅ Prototype autonomous vehicle with real-time wall-following capability 
+
 ✅ Implemented 'PID control' for smooth and accurate navigation 
+
 ✅ Programmed in 'Arduino IDE' with real-time sensor feedback 
+
 ✅ Maintains a 'consistent distance' from the wall for optimal movement 
+
 ✅ Hands-on experience in 'embedded systems and robotics' 
 
 This project enhanced my understanding of 'control systems, sensor integration, and embedded programming'. Excited to explore more in 'robotics and automation'! 🚀
